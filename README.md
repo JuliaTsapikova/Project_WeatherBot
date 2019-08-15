@@ -4,4 +4,4 @@ Project description: worldWeather is a telegram bot, which can be used for weath
 The bot answers to the main commands: /start, /help, /location.
 The necessary information about required libraries you can find in the file requierements.txt.
 The project includes two python files: main.py and weather.py
-Python version: 3.7.0
+Python version: 3.7.0 
